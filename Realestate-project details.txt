@@ -1,0 +1,10 @@
+step1 - create folder in your laptop.
+step2 - navigate this folder to using vs code (React Projects\realestate>)
+step3 - fork the project git-> 
+step4 - git clone https://github.com/Sumeetkumar46/realestate.git . using the vscode
+step5 - install using dependencies uing -> npm i
+step6 - install pakage npm i sass ->> create file index.scss 
+step7 - import that in main.jsx ->> import "./index.scss"
+step 8 - 8:25 -> Responsive Layout with CSS
+
+
